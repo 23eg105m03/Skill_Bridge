@@ -1,8 +1,7 @@
-# Welcome to your Lovable project
+# Welcome to my TT Project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## URL
+https://skill-bridge-gkyk.vercel.app/
 
 ## How can I edit this code?
 
